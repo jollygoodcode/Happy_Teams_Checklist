@@ -1,13 +1,13 @@
 # Happy Teams
 
-I want to build Happy Teams, and be part of Happy Teams. 
+I want to build Happy Teams, and be part of Happy Teams.
 
 How can I do that? Is there a formula?
 
 Having worked with a number of Startups in the last couple of years,
 I have experienced and seen first-hand how practices (or lack of) can affect the emotional well-being of a Team.
 
-In the spirit of the Joel Spolsky's Test, 
+In the spirit of the Joel Spolsky's Test,
 I thus came up with my own highly-opinionated checklist for building Happy Teams,
 which shall also serve as guiding principles for my own Team in the future.
 
@@ -24,15 +24,14 @@ You might want to use this checklist:
 - [ ] Hire For The Right Fit
 - [ ] Realistic Planning
 - [ ] Open Communication
-- [ ] Team Learning Activities
-- [ ] Daily Stand ups / Show and Tell
-- [ ] Retrospectives
+- [ ] Daily Status Updates
 - [ ] Code Review / Pair Programming
-- [ ] Code Styles
+- [ ] Code Style Guides
 - [ ] Test Driven Development
 - [ ] Continuous Integration / Deployment
 - [ ] Automation
+- [ ] Team Learning Activities
+- [ ] Retrospectives / Feedback Sessions
 - [ ] Go Home
-
 
 Created by [Winston](https://twitter.com/winstonyw). Let's all be happy!
