@@ -27,7 +27,7 @@ You might want to use this checklist:
 - [ ] Daily Status Updates
 - [ ] Code Review / Pair Programming
 - [ ] Code Style Guides
-- [ ] Test Driven Development
+- [ ] Write Tests
 - [ ] Continuous Integration / Deployment
 - [ ] Automation
 - [ ] Team Learning Activities
