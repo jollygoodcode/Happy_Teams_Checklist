@@ -1,5 +1,8 @@
 # Happy Teams
 
+Video @ RubyConfTaiwan 2014: https://www.youtube.com/watch?v=mCF67x2rP38 <br>
+Slides: https://speakerdeck.com/winston/happy-teams-rubyconf-tw
+
 I want to build Happy Teams, and be part of Happy Teams.
 
 How can I do that? Is there a formula?
